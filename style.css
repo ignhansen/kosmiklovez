@@ -6,9 +6,9 @@ html,body
 
 .main-section
 {
-    color: orangered;
+    color: white;
     text-align: center;
-    /* background-image: ; */
+    background-image: url(../asset/PkcWet.jpg); 
     min-height: 92vh;
     padding-top: 14em;
     background-size: cover;
@@ -24,3 +24,40 @@ html,body
     font-size: 25px;
 }
 
+.navbar
+{
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: black;
+}
+
+#Logo
+{
+    margin-left: 20px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.navbar-item a:hover
+{
+    background-color: yellowgreen;
+    color: black;
+    transition: 0.5s;
+}
+
+.navbar-item a
+{
+    margin-left: 100px;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 15px 0;
+}
+
+.foo-ter
+{
+    background-image:url(../asset/loop-of-white-and-purple-particles-fading-and-moving-on-4k-dark-background.jpg) ;
+    color: whitesmoke;
+    background-size: cover;
+    text-align: center;
+}
