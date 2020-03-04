@@ -1,0 +1,26 @@
+html,body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.main-section
+{
+    color: orangered;
+    text-align: center;
+    /* background-image: ; */
+    min-height: 92vh;
+    padding-top: 14em;
+    background-size: cover;
+}
+
+.main-title
+{
+    font-size: 50px;
+}
+
+.main.description
+{
+    font-size: 25px;
+}
+
