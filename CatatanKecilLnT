@@ -1,0 +1,13 @@
+Cara membuat Web Design:
+1) Pertama kali kita harus membuat file baru, lalu kita save menggunakan format HTML. 
+2) Kedua kita langsung saja menggunakan shortcut html:5, yang bisa dilihat dengan ctrl+space
+3) Kita membuat folder baru yang bernama asset, css, dan pages. Asset berisi semua gambar yang akan dimasukkan. CSS berisi semua file css yang nanti akan kita gunakan di dalam website kita. Pages berisi isi dari website kita.
+4) Membuat new file.html yang ditaruh di luar yang dapat diakses oleh folder lain sehingga saling berkesinambungan
+
+
+Fitur-fitur yang digunakan dalam web saya:
+1) HTML, singkatan dari Hyper Text Markup Language yang merupakan bahasa pemograman yang digunakan untuk membuat sebuah halaman web.
+2) CSS, singkatan dari Cascading Style Sheet merupakan bahasa yang digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup.
+3) Navbar adalah singkatan dari Navigation Bar adalah sebuah balok navigasi yang terletak di bagian atas halaman blog. Bentuknya horizontal dan ketika ketika kita klik salah satu menu pilihannya makanavbar akan mengirim keita sesuai dengan yang kita tuju.
+
+
