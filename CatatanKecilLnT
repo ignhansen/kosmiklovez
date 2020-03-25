@@ -9,5 +9,9 @@ Fitur-fitur yang digunakan dalam web saya:
 1) HTML, singkatan dari Hyper Text Markup Language yang merupakan bahasa pemograman yang digunakan untuk membuat sebuah halaman web.
 2) CSS, singkatan dari Cascading Style Sheet merupakan bahasa yang digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup.
 3) Navbar adalah singkatan dari Navigation Bar adalah sebuah balok navigasi yang terletak di bagian atas halaman blog. Bentuknya horizontal dan ketika ketika kita klik salah satu menu pilihannya makanavbar akan mengirim keita sesuai dengan yang kita tuju.
+4) Form, form digunakan untuk membuat wadah bagi pengunjung website kita untuk mengisi data pribadi atau mengungkapkan keperluannya pada yang punya website. Form juga digunakan untuk login, pada Form kita dapat melakukan verifikasi user, mengecek apakah yang diinput user sesuai dengan apa yang pembuat website/pemilik website inginkan. Pada form terdapat kotak input yang dapat diedit atau diisi oleh pengunjung website.
+5) Jumbotron merupakan elemen yang digunakan untuk membuat pengumuman atau berita kepada pengunjung website
 
-
+Fitur CSS:
+1) Membuat html, body lalu mengisinya dengan margin 0 dan padding 0 untuk mereset semua setingan awal sehingga semuanya sesuai dengan apa yang nanti akan kita masukkan.
+2) Border radius, border radiusdapat membuat gambar yang kita inginkan berbentuk lonjong, bulat, atau lainnya.
