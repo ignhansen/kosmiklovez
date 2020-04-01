@@ -14,17 +14,17 @@ html,body
     background-size: cover;
 }
 
-.main-title
+.main-titlee
 {
     font-size: 50px;
 }
 
-.main.description
+.main.descriptionn
 {
     font-size: 25px;
 }
 
-.navbar
+.nav-bar
 {
     display: flex;
     padding-top: 15px;
@@ -39,7 +39,7 @@ html,body
     text-decoration: none;
 }
 
-.navbar-item a
+.nav-bar-item a
 {
     margin-left: 100px;
     color: whitesmoke;
@@ -47,7 +47,7 @@ html,body
     padding: 15px 0;
 }
 
-.navbar-item a:hover
+.nav-bar-item a:hover
 {
     background-color: rgb(99, 13, 236);
     color: black;
@@ -64,7 +64,7 @@ html,body
 
 .picture-ourteam
 {
-    border-radius: 100%;
+    border-radius: 60%;
     padding-top: 3em;
     text-align: center;
     justify-content: space-evenly;
@@ -72,6 +72,7 @@ html,body
     margin-right: auto;
     display: flex;
     color: white;
+    font-size: 20px;
     
 }
 
@@ -96,11 +97,11 @@ html,body
     text-align: center;
 }
 
-.vision
+.vis-ion
 {
     text-align: justify;
     min-height: 92vh;
-    padding-top: 14em;
+    padding-top: 5em;
     text-align: center;
     background-size: cover;
     background-image: url(../asset/vision2.jpg);
@@ -108,10 +109,10 @@ html,body
     font-size: 2em;
 }
 
-.mission
+.miss-ion
 {
     min-height: 92vh;
-    padding-top: 14em;
+    padding-top: 5em;
     text-align: center;
     background-size: cover;
     background-image: url(../asset/mision\ baru.jpg);
@@ -138,4 +139,13 @@ html,body
     margin-top: 5px;
     width: 10%;
     padding: 7px;
+}
+
+.navbar-customer
+{
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: black;
+    color: whitesmoke;
 }

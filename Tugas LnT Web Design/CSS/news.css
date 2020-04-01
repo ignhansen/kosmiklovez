@@ -21,7 +21,7 @@ html,body
     background-color: black;
 }
 
-.navbar-item a
+.nav-bar-item a
 {
     margin-left: 100px;
     color:white;
@@ -33,4 +33,11 @@ html,body
 {
     background-color: purple;
     padding: 10px 100px;
+}
+
+.nav-bar-item a:hover
+{
+    background-color: rgb(99, 13, 236);
+    color: black;
+    transition: 0.5s;
 }
