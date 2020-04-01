@@ -14,17 +14,17 @@ html,body
     background-size: cover;
 }
 
-.main-title
+.main-titlee
 {
     font-size: 50px;
 }
 
-.main.description
+.main.descriptionn
 {
     font-size: 25px;
 }
 
-.navbar
+.nav-bar
 {
     display: flex;
     padding-top: 15px;
@@ -39,19 +39,19 @@ html,body
     text-decoration: none;
 }
 
-.navbar-item a:hover
-{
-    background-color: yellowgreen;
-    color: black;
-    transition: 0.5s;
-}
-
-.navbar-item a
+.nav-bar-item a
 {
     margin-left: 100px;
     color: whitesmoke;
     text-decoration: none;
     padding: 15px 0;
+}
+
+.nav-bar-item a:hover
+{
+    background-color: rgb(99, 13, 236);
+    color: black;
+    transition: 0.5s;
 }
 
 .foo-ter
@@ -60,4 +60,92 @@ html,body
     color: whitesmoke;
     background-size: cover;
     text-align: center;
+}
+
+.picture-ourteam
+{
+    border-radius: 60%;
+    padding-top: 3em;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.about-us
+{
+    margin-top: 0px;
+    padding: 30px;
+    text-align: center;
+    background-image: url(https://28j4hc23gg8m166m6828ik29-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/AdobeStock_177663436.jpeg);
+    color: white;
+}
+
+.form-group
+{
+    background-image: url(../asset/purpback.png);
+    text-align: center;
+    color: white;
+}
+
+.form-group1
+{
+    text-align: center;
+}
+
+.vis-ion
+{
+    text-align: justify;
+    min-height: 92vh;
+    padding-top: 5em;
+    text-align: center;
+    background-size: cover;
+    background-image: url(../asset/vision2.jpg);
+    color: whitesmoke;
+    font-size: 2em;
+}
+
+.miss-ion
+{
+    min-height: 92vh;
+    padding-top: 5em;
+    text-align: center;
+    background-size: cover;
+    background-image: url(../asset/mision\ baru.jpg);
+    color: whitesmoke;
+    font-size: 2em;
+}
+
+.navbar-vision-mission
+{
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.form-group label
+{
+    display: block;
+}
+
+.form-group input
+{
+    margin-top: 5px;
+    width: 10%;
+    padding: 7px;
+}
+
+.navbar-customer
+{
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: black;
+    color: whitesmoke;
 }
